@@ -3,3 +3,27 @@ body {
     font-style: normal;
     color: white;
 }
+article {
+    padding: 20px;
+    border: 1px solid white;
+}
+article h2 {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    list-style: 2.5;
+    margin: -10px;
+    margin-bottom: 10px;
+    font-weight: normal;
+    font-size: 20px;
+}
+article div {
+    text-align: center;
+    font-size: 28px;
+    margin: 20px 0;
+}
+article ul {
+    list-style: square;
+    padding: 0;
+    margin: 20px 0;
+}
